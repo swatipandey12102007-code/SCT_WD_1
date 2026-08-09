@@ -12,3 +12,4 @@ A responsive landing page created as part of the SkillCraft Technology Web Devel
 - Hover effects
 - Scroll-based navigation styling
 - Responsive design
+SkillCraft Technology Web Development Internship - Task 1
