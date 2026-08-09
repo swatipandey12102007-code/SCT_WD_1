@@ -1,2 +1,14 @@
-# SCT_WD_1
-Responsive landing page with a fixed navigation menu featuring hover and scroll-based interactive styling.
+# SCT_WD_1 – Responsive Landing Page
+
+A responsive landing page created as part of the SkillCraft Technology Web Development Internship.
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+
+## Features
+- Fixed navigation menu
+- Hover effects
+- Scroll-based navigation styling
+- Responsive design
